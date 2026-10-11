@@ -21,6 +21,7 @@ We want this to be the most comprehensive, up-to-date directory on GitHub. **Fee
 | [Dynamite Jobs](https://dynamitejobs.com) | 100% Remote-First Employers | Digital Nomads & Core Roles |
 | [FlexJobs](https://www.flexjobs.com) | Hand-Screened, Scam-Free Listings | Multi-Industry Career Roles |
 | [Himalayas](https://himalayas.app) | Advanced Time-Zone Filtering | Global Distributed Teams |
+| [Jaabz](https://jaabz.com) | Visa Sponsorship & Relocation Tech Roles | Remote, Relocation, Visa Sponsorship |
 | [Remote OK](https://remoteok.com) | Real-Time Salary Transparency | Startups, Developers, Tech |
 | [Remote.co](https://remote.co) | Broad Industry & Entry-Level Roles | Healthcare, Admin, Accounting |
 | [Remotive](https://remotive.com) | Community-Driven Tech Jobs | Software, DevOps, Product |
@@ -91,3 +92,9 @@ To add a new board, copy this template, fill it out, and append it to the bottom
 * **Website:** [url](https://...)
 * **Core Focus:** [Focus areas]
 * **Description:** [1-3 sentences describing the unique value proposition of the platform.]
+
+### Jaabz
+* **Website:** [jaabz.com](https://jaabz.com)
+* **Best For:** International tech roles with visa sponsorship and relocation
+* **Description:** Tech job board focused on visa sponsorship, relocation packages, and remote opportunities worldwide.
+
